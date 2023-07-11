@@ -26,11 +26,11 @@ export default function HomeScreen() {
         
         const spendData = histories.filter(data => data.type === "Spend");
         setTotalSpend(spendData.reduce((total, data) => total + data.amount, 0));
-        
-        setTotalMoney(totalIncome - totalSpend);
       }
-    }, [])
+    }, [histories])
   );
+
+  React.useEffect(() => setTotalMoney(totalIncome - totalSpend), [totalIncome, totalSpend]);
 
   return (
     <ScrollView style={styles.screen}>
