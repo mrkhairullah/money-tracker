@@ -5,7 +5,7 @@ import { getHistories } from "../core/features";
 import React from "react";
 import { useFocusEffect } from "@react-navigation/native";
 
-export default function OverviewScreen() {
+export default function HomeScreen() {
   const [histories, setHistories] = React.useState([]);
   const [recentHistories, setRecentHistories] = React.useState([]);
   const [totalIncome, setTotalIncome] = React.useState(0);
