@@ -1,0 +1,22 @@
+{
+  "rowsAffected": 0,
+  "rows": {
+    "_array": [
+      {
+        "id": "001",
+        "title": "Gajian",
+        "type": "income",
+        "currency": 300000,
+        "date": "2023-07-06 10:20:05"
+      },
+      {
+        "id": "002",
+        "title": "Makan baso",
+        "type": "spend",
+        "currency": 10000,
+        "date": "2023-07-07 10:20:05"
+      }
+    ],
+    "length": 2
+  }
+}

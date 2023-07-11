@@ -1,0 +1,72 @@
+[
+  {
+    "id": "data-01",
+    "title": "Gajian",
+    "amount": 400000,
+    "date": "20 Juli 2023",
+    "type": "Income"
+  },
+  {
+    "id": "data-02",
+    "title": "Bayar wifi",
+    "amount": 250000,
+    "date": "25 Juli 2023",
+    "type": "Spend"
+  },
+  {
+    "id": "data-03",
+    "title": "Bayar seminar",
+    "amount": 100000,
+    "date": "27 Juli 2023",
+    "type": "Spend"
+  },
+  {
+    "id": "data-04",
+    "title": "Jasa buat web",
+    "amount": 600000,
+    "date": "28 Juli 2023",
+    "type": "Income"
+  },
+  {
+    "id": "data-05",
+    "title": "Uang jajan",
+    "amount": 200000,
+    "date": "30 Juli 2023",
+    "type": "Income"
+  },
+  {
+    "id": "data-06",
+    "title": "Ongkos main",
+    "amount": 200000,
+    "date": "1 Agustus 2023",
+    "type": "Spend"
+  },
+  {
+    "id": "data-07",
+    "title": "Beli jajan",
+    "amount": 50000,
+    "date": "2 Agustus 2023",
+    "type": "Spend"
+  },
+  {
+    "id": "data-08",
+    "title": "Service motor",
+    "amount": 500000,
+    "date": "5 Agustus 2023",
+    "type": "Spend"
+  },
+  {
+    "id": "data-09",
+    "title": "Jasa buat app",
+    "amount": 1000000,
+    "date": "15 Agustus 2023",
+    "type": "Income"
+  },
+  {
+    "id": "data-10",
+    "title": "Jalan-jalan",
+    "amount": 300000,
+    "date": "20 Agustus 2023",
+    "type": "Spend"
+  }
+]
